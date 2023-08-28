@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.ant-avatar-image{
+  width: 100px;
+  height: 100px;
+}
+
+#scrollableDiv{
+  margin-top: 20px;
+  height: 800px !important;
+}
